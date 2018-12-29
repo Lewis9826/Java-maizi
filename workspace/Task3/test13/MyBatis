@@ -1,0 +1,4 @@
+抽象工厂：  SqlSessionFactory
+具体工厂：  DefaultSqlSessionFactory，
+抽象产品：  SqlSession
+具体产品：  SqlSessionTemplate,DefaultSqlSession,
